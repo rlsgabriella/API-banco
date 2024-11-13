@@ -1,0 +1,19 @@
+{
+  "name": "api-banco",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "",
+    "url": "API-BANCO"
+  },
+  "author": "Gabriella Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
